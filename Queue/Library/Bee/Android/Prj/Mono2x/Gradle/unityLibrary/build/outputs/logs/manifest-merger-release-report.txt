@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:146-176
+uses-permission#android.permission.INTERNET
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+uses-feature#0x00030000
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+	android:glEsVersion
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-91
+	android:required
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:64-88
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-88
+	android:required
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:61-85
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-99
+	android:required
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:72-96
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-108
+	android:required
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:81-105
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-80
+application
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-32:17
+	android:extractNativeLibs
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+meta-data#unity.splash-mode
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-69
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:49-66
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-48
+meta-data#unity.splash-enable
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-74
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:51-71
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-78
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:55-75
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:60-81
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-59
+meta-data#notch.config
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-81
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:44-78
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:61-81
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-26:16
+	android:screenOrientation
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:134-171
+	android:launchMode
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:172-203
+	android:hardwareAccelerated
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:341-376
+	android:exported
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:377-400
+	android:resizeableActivity
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:306-340
+	android:configChanges
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:204-305
+	android:theme
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:69-133
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:7-22:23
+category#android.intent.category.LAUNCHER
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:19-66
+action#android.intent.action.MAIN
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:17-58
+category#com.oculus.intent.category.VR
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:19-63
+meta-data#unityplayer.UnityActivity
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-82
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:59-79
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:18-58
+meta-data#notch_support
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-70
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:47-67
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-46
+meta-data#com.oculus.vr.focusaware
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-81
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:58-78
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-57
+meta-data#com.samsung.android.vr.application.mode
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-97
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:71-94
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-70
+meta-data#com.unity.xr.oculus.LowOverheadMode
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-91
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:67-88
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-66
+meta-data#com.unity.xr.oculus.LateLatching
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-88
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:64-85
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-63
+meta-data#com.unity.xr.oculus.LateLatchingDebug
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-93
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:69-90
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-68
+meta-data#com.oculus.supportedDevices
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-90
+	android:value
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:59-87
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-58
+uses-feature#android.hardware.vr.headtracking
+ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-111
+	android:version
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:89-108
+	android:required
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:65-88
+	android:name
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:17-64
+uses-sdk
+INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\DSUnity\Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
