@@ -1,0 +1,178 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:installLocation="auto" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+11-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+12
+13    <uses-feature android:glEsVersion="0x00030000" />
+13-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+13-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+14    <uses-feature
+14-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-91
+15        android:name="android.hardware.vulkan.version"
+15-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-63
+16        android:required="false" />
+16-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:64-88
+17    <uses-feature
+17-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-88
+18        android:name="android.hardware.touchscreen"
+18-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+19        android:required="false" />
+19-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-85
+20    <uses-feature
+20-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-99
+21        android:name="android.hardware.touchscreen.multitouch"
+21-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-71
+22        android:required="false" />
+22-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:72-96
+23    <uses-feature
+23-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-108
+24        android:name="android.hardware.touchscreen.multitouch.distinct"
+24-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-80
+25        android:required="false" />
+25-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:81-105
+26    <uses-feature
+26-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-111
+27        android:name="android.hardware.vr.headtracking"
+27-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:17-64
+28        android:required="true"
+28-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:65-88
+29        android:version="1" />
+29-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:89-108
+30
+31    <application android:extractNativeLibs="true" >
+31-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-31:17
+31-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+32        <meta-data
+32-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-69
+33            android:name="unity.splash-mode"
+33-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+34            android:value="0" />
+34-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-66
+35        <meta-data
+35-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-74
+36            android:name="unity.splash-enable"
+36-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-50
+37            android:value="True" />
+37-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:51-71
+38        <meta-data
+38-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-78
+39            android:name="unity.launch-fullscreen"
+39-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-54
+40            android:value="True" />
+40-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+41        <meta-data
+41-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+42            android:name="unity.allow-resizable-window"
+42-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-59
+43            android:value="False" />
+43-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:60-81
+44        <meta-data
+44-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-81
+45            android:name="notch.config"
+45-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-43
+46            android:value="portrait|landscape" />
+46-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:44-78
+47        <meta-data
+47-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+48            android:name="unity.auto-report-fully-drawn"
+48-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-60
+49            android:value="true" />
+49-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:61-81
+50
+51        <activity
+51-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-25:16
+52            android:name="com.unity3d.player.UnityPlayerActivity"
+52-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:15-68
+53            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
+53-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:204-305
+54            android:exported="true"
+54-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:377-400
+55            android:hardwareAccelerated="false"
+55-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:341-376
+56            android:launchMode="singleTask"
+56-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:172-203
+57            android:resizeableActivity="false"
+57-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:306-340
+58            android:screenOrientation="landscape"
+58-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:134-171
+59            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+59-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:69-133
+60            <intent-filter>
+60-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:7-21:23
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-69
+61-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:19-66
+62
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-61
+63-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-58
+64
+65                <category android:name="com.oculus.intent.category.VR" />
+65-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-66
+65-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:19-63
+66            </intent-filter>
+67
+68            <meta-data
+68-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-82
+69                android:name="unityplayer.UnityActivity"
+69-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:18-58
+70                android:value="true" />
+70-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:59-79
+71            <meta-data
+71-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-70
+72                android:name="notch_support"
+72-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:18-46
+73                android:value="true" />
+73-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:47-67
+74            <meta-data
+74-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-81
+75                android:name="com.oculus.vr.focusaware"
+75-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-57
+76                android:value="true" />
+76-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:58-78
+77        </activity>
+78
+79        <meta-data
+79-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:5-97
+80            android:name="com.samsung.android.vr.application.mode"
+80-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:16-70
+81            android:value="vr_only" />
+81-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:71-94
+82        <meta-data
+82-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-91
+83            android:name="com.unity.xr.oculus.LowOverheadMode"
+83-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-66
+84            android:value="false" />
+84-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:67-88
+85        <meta-data
+85-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-88
+86            android:name="com.unity.xr.oculus.LateLatching"
+86-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-63
+87            android:value="false" />
+87-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:64-85
+88        <meta-data
+88-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-93
+89            android:name="com.unity.xr.oculus.LateLatchingDebug"
+89-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-68
+90            android:value="false" />
+90-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:69-90
+91        <meta-data
+91-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-90
+92            android:name="com.oculus.supportedDevices"
+92-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-58
+93            android:value="quest|quest2" />
+93-->C:\DSUnity\Stacks\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:59-87
+94    </application>
+95
+96</manifest>
